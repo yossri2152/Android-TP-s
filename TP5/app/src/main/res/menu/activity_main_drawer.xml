@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/all_sens"
+            android:title="All sensors" />
+        <item
+            android:id="@+id/acc"
+            android:title="Accelorometer" />
+        <item
+            android:id="@+id/gyr"
+            android:title="Gyroscope" />
+        <item
+            android:id="@+id/mag"
+            android:title="Magnetometer" />
+        <item
+            android:id="@+id/pro"
+            android:title="Proximity" />
+        <item
+            android:id="@+id/photo"
+            android:title="Photometer" />
+        <item
+            android:id="@+id/nav_sensors"
+            android:icon="@android:drawable/ic_menu_preferences"
+            android:title="Liste des capteurs" />
+    </group>
+</menu>

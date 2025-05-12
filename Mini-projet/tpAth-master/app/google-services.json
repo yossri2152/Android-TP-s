@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "975321298434",
+    "project_id": "tplogin-37454",
+    "storage_bucket": "tplogin-37454.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975321298434:android:fff90fa3583bc50aaf991b",
+        "android_client_info": {
+          "package_name": "com.example.tplogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf3WDgkdOe46F2UIS3LQm-XuXraw95fOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

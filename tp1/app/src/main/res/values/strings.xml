@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">firstapp</string>
+    <string name="mytext">Welcome to My First Android Application</string>
+
+
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="hint_login">Enter your login</string>
+    <string name="hint_password">Enter your password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="update_date_time">Update Date and Time</string>
+    <string name="default_date">Date</string>
+    <string name="toast_success">Login successful!</string>
+    <string name="toast_error">Invalid credentials!</string>
+
+
+</resources>
